@@ -1,4 +1,4 @@
-# Eliza
+# Krovi AI
 
 ## Edit the character files
 
